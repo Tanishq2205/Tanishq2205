@@ -8,3 +8,4 @@
 Tanishq2205/Tanishq2205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq2205&show_icons=true&theme=tokyonight)
